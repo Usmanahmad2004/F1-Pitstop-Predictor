@@ -1,0 +1,6 @@
+data/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+tests/fake_data/
+outputs/results/submission_*.csv

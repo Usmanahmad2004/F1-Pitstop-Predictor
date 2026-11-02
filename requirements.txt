@@ -1,0 +1,7 @@
+numpy>=1.23
+pandas>=2.0
+matplotlib>=3.6
+scikit-learn>=1.4
+lightgbm>=4.0
+jupyter>=1.0
+jupytext>=1.16
